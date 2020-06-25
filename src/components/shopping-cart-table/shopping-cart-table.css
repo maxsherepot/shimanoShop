@@ -1,0 +1,16 @@
+
+.table td, .table th {
+    border: none;
+}
+
+
+
+@media screen and (max-width: 440px) {
+    .table td {
+     padding: .15rem; 
+    }
+
+    table {
+        font-size: 14px; 
+   }
+}; 

@@ -1,0 +1,21 @@
+
+.data-list-item img {
+    max-width: 240px;
+}
+
+.my {
+    margin-bottom: 68px;
+    margin-top: 32px;
+}
+
+
+
+@media screen and (max-width: 580px) {
+    .data-list-item img {
+        max-width: 140px;
+    } 
+
+    .content-box {
+         font-size: 14px; 
+    }
+}; 
